@@ -1,0 +1,12 @@
+threshholding
+augment
+batchnormalization
+regularization(optional)
+leakyrelu
+total loss fn across epochs
+k-cross validation
+
+dataset class defined
+definite
+get length
+init
